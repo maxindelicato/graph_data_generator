@@ -1,0 +1,12 @@
+*.py
+*.iml
+*.ipr
+*.iws
+.gradle/
+gradle/
+gradlew.bat
+gradlew
+target/*.jar
+build/
+out/
+.idea/
