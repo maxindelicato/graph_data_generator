@@ -1,4 +1,4 @@
-# Pattern Graph Data Generator
+# Graph Data Generator
 
 This project generates graphs of arbitrary size using various models. All graphs are reproducible using a seed variable.
 
